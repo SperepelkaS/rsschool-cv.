@@ -13,7 +13,7 @@
 ## **Additional education:**
 * Self-education with the help of Internet resources
 * "RSSchool Pre course «JavaScript/Front-end. Stage 0" https://rs.school/js-stage0/ 
-## **Scillls:**
+## **Scills:**
 * #### purposefulness
 * #### responsibility
 * #### learnability
