@@ -34,4 +34,4 @@ function multiply(a, b){
 * #### Native: russian
 * #### English A1
 * #### Spanish A1
-* #### Belorusian
+* #### Belorussian
