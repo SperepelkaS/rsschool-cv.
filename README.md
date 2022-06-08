@@ -1,2 +1,2 @@
 # RSSchool
-[ Ссылка на СV ]( https://@SperepelkaS.github.io/rsschool-cv/cv )
+[ Link for СV ]( https://@sperepelkas.github.io/rsschool-cv/cv )
