@@ -12,7 +12,7 @@
 * #### branch BNTU «Minsk State Technological College
 ## **Additional education:**
 * Self-education with the help of Internet resources
-* "RSSchool Pre course «JavaScript/Front-end. Stage 0" https://rs.school/js-stage0/ 
+* "RSSchool Pre course «JavaScript/Front-end. Stage 0"
 ## **Scills:**
 * #### purposefulness
 * #### responsibility
